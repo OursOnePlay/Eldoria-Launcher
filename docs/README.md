@@ -1,23 +1,5 @@
 <p align="center"><img src="../src/assets/images/icon.png" alt="icon-launcher"></p>
 
-<h1 align="center">CraftLaunch</h1>
-
-<p align="center">
-!GitHub all releases
-!Discord
-!GitHub package.json version
-<p align="center">
-!GitHub forks
-!GitHub Repo stars
-
-<p align="center">
-    <a href="http://discord.luuxis.fr">
-        <img src="https://invidget.switchblade.xyz/e9q7Yr2cuQ">
-    </a>
-</p>
-
----
-
 ### **<ins><p align="center">Conditions d'utilisation:</p>**
 - Pour utiliser le code, vous devez faire un fork du projet.
 - Votre code doit toujours être public.
